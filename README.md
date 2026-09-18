@@ -506,8 +506,6 @@ Key implementation areas include:
 
 ## 👨‍💻 Project Status
 
-**Status:** Completed College Project
-
 **Language:** C
 
 **Platform:** Windows
@@ -517,3 +515,11 @@ Key implementation areas include:
 **Interface:** Console-based
 
 **Networking:** TCP sockets
+
+---
+
+## 📬 Contact & Suggestions
+
+For suggestions, feedback, or improvements, contact: nagi1262@protonmail.com
+
+Suggestions and feedback are welcome.
